@@ -1,8 +1,8 @@
 ---
 layout: allposts
 title: Posts
-description: 'My writings.'
-# image: assets/images/stream.jpg
+description: "Some things I have written."
+# image: assets/images/planets1.png
 nav-menu: true
 ---
 

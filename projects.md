@@ -1,7 +1,8 @@
 ---
 title: Projects
 layout: landing
-description: "Things I have worked on."
+description: "Some things I have worked on."
+# image: assets/images/planets2.png
 nav-menu: true
 ---
 
@@ -24,7 +25,7 @@ nav-menu: true
       	<h3>Colour Mine</h3>
 	  	<p>Made for nwHacks 2020.</p><br />
 			<ul class="actions">
-				<li><a href="https://github.com/tiangela1027/Colour-Mine" class="button">GitHub</a></li>
+				<li><a href="https://github.com/tiangela1027/Colour-Mine" target="_blank" class="button">GitHub</a></li>
 			</ul>
     </header>
   </article>
@@ -37,7 +38,7 @@ nav-menu: true
 				
 				<p>Made for BC Game Jam 2019.</p><br />
 				<ul class="actions">
-					<li><a href="https://github.com/tiangela1027/The-Last-Frontier" class="button">GitHub</a></li>
+					<li><a href="https://github.com/tiangela1027/The-Last-Frontier" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/lastfrontier_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul></header>
   </article>
@@ -49,7 +50,7 @@ nav-menu: true
 					<h3>Hangman</h3>
 				
 				<ul class="actions">
-					<li><a href="https://github.com/tiangela1027/Hangman" class="button">GitHub</a></li>
+					<li><a href="https://github.com/tiangela1027/Hangman" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/hangman_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul></header>
   </article>
@@ -61,7 +62,7 @@ nav-menu: true
 					<h3>Pong</h3>
 				
 				<ul class="actions">
-					<li><a href="https://github.com/tiangela1027/Pong" class="button">GitHub</a></li>
+					<li><a href="https://github.com/tiangela1027/Pong" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/pong_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul>
 				</header>
@@ -75,7 +76,7 @@ nav-menu: true
 				
 				<p>Made for HallowHacks 2018 - won second place.</p><br>
 				<ul class="actions">
-					<li><a href="https://github.com/tiangela1027/Cyclo-Power" class="button">GitHub</a></li>
+					<li><a href="https://github.com/tiangela1027/Cyclo-Power" target="_blank" class="button">GitHub</a></li>
 				</ul>
 				</header>
   </article>
