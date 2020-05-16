@@ -19,7 +19,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<span class="image fit">
-			<img src="assets/images/colourmine.png" height=325px alt="Screenshot of Colour Mine game." data-position="25% 25%" />
+			<img src="{% link assets/images/colourmine.png %}" height=325px alt="Screenshot of Colour Mine game." data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="assets/images/lastfrontier.png" height=325px alt="Screenshot of The Last Frontier game." data-position="25% 25%" />
+			<img src="{% link assets/images/lastfrontier.png %}" height=325px alt="Screenshot of The Last Frontier game." data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="assets/images/hangman.png" height=325px alt="Screenshot of Hangman game." data-position="top center" />
+			<img src="{% link assets/images/hangman.png %}" height=325px alt="Screenshot of Hangman game." data-position="top center" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -68,7 +68,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="assets/images/pong.png" height=325px alt="Screenshot of Pong game." data-position="25% 25%" />
+			<img src="{% link assets/images/pong.png %}" height=325px alt="Screenshot of Pong game." data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="assets/images/cyclopower.png" height=325px alt="Screenshot of Cyclo Power website." data-position="center center" />
+			<img src="{% link assets/images/cyclopower.png %}" height=325px alt="Screenshot of Cyclo Power website." data-position="center center" />
 		</span>
 		<div class="content">
 			<div class="inner">
