@@ -3,7 +3,7 @@ title: Angela Tian
 subtitle: UBC CS, 3rd year
 email: tiangela1@gmail.com
 description: I'm currently a third-year UBC CS student, on co-op.<br />I'm interested in devops, game dev, and back-end web dev.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Angela Tian
 # street_address: 1234 Somewhere Road
