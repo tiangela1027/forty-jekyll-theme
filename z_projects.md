@@ -2,7 +2,6 @@
 title: Projects
 layout: landing
 description: 'Things I have worked on.'
-# image: https://user-images.githubusercontent.com/34170630/70381623-70b8a700-1902-11ea-9004-d988b2983497.JPG
 nav-menu: true
 ---
 
@@ -20,7 +19,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<span class="image fit">
-			<img src="https://user-images.githubusercontent.com/34170630/70373689-3833b180-189f-11ea-9bba-90eb42074220.png" height=325px alt="" data-position="25% 25%" />
+			<img src="assets/images/colourmine.png" height=325px alt="" data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -36,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="https://user-images.githubusercontent.com/34170630/70373490-47b1fb00-189d-11ea-9a83-62cf03edbb11.png" height=325px alt="" data-position="25% 25%" />
+			<img src="assets/images/lastfrontier.png" height=325px alt="" data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -53,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="https://user-images.githubusercontent.com/34170630/70385788-5522c000-1945-11ea-86e1-bd4bd0e57ba2.png" height=325px alt="" data-position="top center" />
+			<img src="assets/images/hangman.png" height=325px alt="" data-position="top center" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -69,7 +68,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="https://user-images.githubusercontent.com/34170630/70388274-50b9cf80-1964-11ea-9e54-138259f22faf.png" height=325px alt="" data-position="25% 25%" />
+			<img src="assets/images/pong.png" height=325px alt="" data-position="25% 25%" />
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -85,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image fit">
-			<img src="https://user-images.githubusercontent.com/34170630/70385453-4a1a6080-1942-11ea-9a23-3e5113f795dd.png" height=325px alt="" data-position="center center" />
+			<img src="assets/images/cyclopower.png" height=325px alt="" data-position="center center" />
 		</span>
 		<div class="content">
 			<div class="inner">
