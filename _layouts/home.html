@@ -21,7 +21,7 @@
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" class="button next scrolly">About me</a></li>
                 </ul>
             </div>
         </div>
@@ -31,20 +31,49 @@
     <div id="main">
 
         <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
         <section id="two">
             <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                <div class="row">
+                    <div class="6u 12u$(small)">
+                        <h3>Experience</h3>
+                        <header class="major">
+                            <h4>Junior Software Engineer at Tasktop</h4>
+                            <p>May - Dec 2020</p>
+                        </header>
+                        <p>Working on the Engineering Operations team.</p>
+                        <header class="major">
+                            <h4>Agile Developer Intern at SAP</h4>
+                            <p>Sept 2019 - April 2020</p>
+                        </header>
+                        <p>Worked on test infrastructure as part of the quality team for SAP HANA.</p>
+                    </div>
+
+                    <div class="6u 12u$(small)">
+                        <h3>Technical Skills</h3>
+                        <p>
+                            <span><strong>Languages</strong> – Java, Python, Groovy, Bash, SQL</span><br />
+                            <span><strong>Web</strong> – HTML5/CSS, JavaScript, Node.js, PHP</span><br />
+                            <span><strong>Tools / Systems</strong> – Git, Jenkins, Gradle, Docker, MySQL</span><br />
+                            <span><strong>Applications / IDEs</strong> – Unity, Godot, Android Studio</span><br />
+                            <span><strong>Testing</strong> – JUnit, GDB, Jasmine, Mocha, Selenium</span>
+                        </p>
+                        <ul class="actions">
+                            <li><a href="z_projects.html" class="button next">Projects</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </section>
+        
+        <!-- Three -->
+        <section id="three">
+            <div class="inner">
+                
+            </div>
+        </section>
+
+        <!-- Two -->
+        {% include tiles.html %}
 
     </div>
 
