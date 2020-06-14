@@ -19,49 +19,58 @@ nav-menu: true
 <section id="one" class="tiles">
   <article>
     <span class="image">
-      <img src="./assets/images/colourmine.png" alt="" />
+      <img src="./assets/images/paintdrop.jpg" alt="Screenshot from Paint Drop." />
     </span>
     <header class="major">
-      	<h3>Colour Mine</h3>
-	  	<p>Made for nwHacks 2020.</p><br />
-			<ul class="actions">
-				<li><a href="https://github.com/tiangela1027/Colour-Mine" target="_blank" class="button">GitHub</a></li>
-			</ul>
-    </header>
+				<h3>Paint Drop</h3>
+				<ul class="actions">
+          <li><a href="https://github.com/tiangela1027/Paint-Drop" target="_blank" class="button">GitHub</a></li>
+					<li><a href="./paint-drop/paintdrop.html" target="_blank" class="button">Try It</a></li>
+				</ul>
+				</header>
   </article>
   <article>
     <span class="image">
-      <img src="./assets/images/lastfrontier.png" alt="" />
+      <img src="./assets/images/lastfrontier.png" alt="Screenshot of Last Frontier game." />
     </span>
     <header class="major">
 					<h3>The Last Frontier</h3>
-				
-				<p>Made for BC Game Jam 2019.</p><br />
-				<ul class="actions">
+				  <p>Made for BC Game Jam 2019.</p><br />
+				  <ul class="actions">
 					<li><a href="https://github.com/tiangela1027/The-Last-Frontier" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/lastfrontier_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul></header>
   </article>
   <article>
     <span class="image">
-      <img src="./assets/images/hangman.png" alt="" />
+      <img src="./assets/images/colourmine.png" alt="Screenshot of Colour Mine game." />
+    </span>
+    <header class="major">
+      	<h3>Colour Mine</h3>
+	  	  <p>Made for nwHacks 2020.</p><br />
+			  <ul class="actions">
+				<li><a href="https://github.com/tiangela1027/Colour-Mine" target="_blank" class="button">GitHub</a></li>
+			</ul>
+    </header>
+  </article>
+  <article>
+    <span class="image">
+      <img src="./assets/images/hangman.png" alt="Screenshot of Hangman game." />
     </span>
     <header class="major">
 					<h3>Hangman</h3>
-				
-				<ul class="actions">
+				  <ul class="actions">
 					<li><a href="https://github.com/tiangela1027/Hangman" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/hangman_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul></header>
   </article>
   <article>
     <span class="image">
-      <img src="./assets/images/pong.png" alt="" />
+      <img src="./assets/images/pong.png" alt="Screenshot of Pong game." />
     </span>
     <header class="major">
 					<h3>Pong</h3>
-				
-				<ul class="actions">
+				  <ul class="actions">
 					<li><a href="https://github.com/tiangela1027/Pong" target="_blank" class="button">GitHub</a></li>
 					<li><a href="./assets/zip/pong_win.zip" download class="button icon fa-download">Windows</a></li>
 				</ul>
@@ -69,13 +78,12 @@ nav-menu: true
   </article>
   <article>
     <span class="image">
-      <img src="./assets/images/cyclopower.png" alt="" />
+      <img src="./assets/images/cyclopower.png" alt="Screenshot of Cyclo Power website." />
     </span>
     <header class="major">
 					<h3>Cyclo Power</h3>
-				
-				<p>Made for HallowHacks 2018 - won second place.</p><br>
-				<ul class="actions">
+				  <p>Made for HallowHacks 2018 - won second place.</p><br>
+				  <ul class="actions">
 					<li><a href="https://github.com/tiangela1027/Cyclo-Power" target="_blank" class="button">GitHub</a></li>
 				</ul>
 				</header>
