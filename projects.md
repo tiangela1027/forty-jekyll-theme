@@ -31,6 +31,18 @@ nav-menu: true
   </article>
   <article>
     <span class="image">
+      <img src="./assets/images/sunsetdrive.jpg" alt="Screenshot from Sunset Drive." />
+    </span>
+    <header class="major">
+				<h3>Sunset Drive</h3>
+				<ul class="actions">
+          <li><a href="https://github.com/tiangela1027/Sunset-Drive" target="_blank" class="button">GitHub</a></li>
+					<li><a href="./sunset-drive/index.html" target="_blank" class="button">Try It</a></li>
+				</ul>
+				</header>
+  </article>
+  <article>
+    <span class="image">
       <img src="./assets/images/lastfrontier.png" alt="Screenshot of Last Frontier game." />
     </span>
     <header class="major">
