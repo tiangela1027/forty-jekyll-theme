@@ -1,0 +1,11 @@
+p {
+  font-size: 24px;
+  font-family: "Perpetua";
+  color: whitesmoke;
+  position: absolute;
+  opacity: 0.5;
+  bottom: 0px;
+  right: 25%;
+  left: 50%;
+  margin-left: -150px;
+}
