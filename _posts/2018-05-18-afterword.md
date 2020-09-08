@@ -46,4 +46,4 @@ I’m just a writer but<br>
 put all we can't say out loud on paper<br>
 and we’ll forever be the heroes.
 
-> It took me a while, but I found the piece that was the motivation for this one - "Litany in Which Certain Things Are Crossed Out" by Richard Siken. I think it was around the time we had to submit graduation quotes, and I wanted cram in a small poem of my own making. In the end I gave up and went with a BoJack Horseman bit instead, but only after I spewed this out. It's pretty long and it doesn't really make sense - but sure, I'm still fond of it.
+> It took me a while, but I found the piece that was the motivation for this one - "Litany in Which Certain Things Are Crossed Out" by Richard Siken. I think it was around the time we had to submit graduation quotes, and I wanted to cram in a small poem of my own making. In the end I gave up and went with a BoJack Horseman bit instead, but only after I spewed this out. It's pretty long and it doesn't really make sense - but sure, I'm still fond of it.
