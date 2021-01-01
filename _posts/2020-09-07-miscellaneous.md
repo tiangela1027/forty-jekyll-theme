@@ -20,6 +20,8 @@ description: "random recommendations"
 			<li>Ōkami</li>
 			<li>Yakuza 0</li>
 			<li>AI: The Somnium Files</li>
+			<li>Wandersong</li>
+			<li>Dragon Age series</li>
 		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -37,7 +39,7 @@ description: "random recommendations"
 			<!-- <li><em>Homunculus</em> by Hideo Yamamoto</li> -->
 			<li><em>Fight Club</em> by Chuck Palahniuk</li>
 			<li><em>The Little Prince</em> by Antoine de Saint-Exupéry</li>
-			<li>et cetera</li>
+			<li><em>The Happy Prince</em> by Oscar Wilde</li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
