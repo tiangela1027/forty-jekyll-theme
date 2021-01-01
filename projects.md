@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: "Some things I have worked on<br />- Hackathons, personal projects"
+description: "Some things I have worked on"
 # image: assets/images/planets2.png
 nav-menu: true
 ---
@@ -74,7 +74,7 @@ nav-menu: true
     </span>
     <header class="major">
       	<h3>Colour Mine</h3>
-	  	  <p>Made for nwHacks 2020.</p><br />
+	  	  <p>Made for UBC LHD - Build Day Hackathon 2019.</p><br />
 			  <ul class="actions">
 				<li><a href="https://github.com/tiangela1027/Colour-Mine" target="_blank" class="button">GitHub</a></li>
 			</ul>
@@ -97,7 +97,7 @@ nav-menu: true
     </span>
     <header class="major">
 					<h3>Cyclo Power</h3>
-				  <p>Made for HallowHacks 2018 - won second place.</p><br>
+				  <p>Made for HallowHacks 2018 (second place).</p><br>
 				  <ul class="actions">
 					<li><a href="https://github.com/tiangela1027/Cyclo-Power" target="_blank" class="button">GitHub</a></li>
 				</ul>
