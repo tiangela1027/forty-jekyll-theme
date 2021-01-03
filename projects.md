@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: "Some things I have worked on"
+description: "Some things I have worked on<br />- Hackathons, side projects"
 # image: assets/images/planets2.png
 nav-menu: true
 ---
