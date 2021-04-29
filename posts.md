@@ -1,8 +1,7 @@
 ---
 layout: allposts
 title: Posts
-description: "Some things I have written<br />- Articles, short stories, poems"
-# image: assets/images/planets1.png
+description: "Articles, short stories, poems"
 nav-menu: true
 ---
 

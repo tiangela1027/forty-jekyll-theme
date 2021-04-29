@@ -1,8 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: "Some things I have worked on<br />- Hackathons, side projects"
-# image: assets/images/planets2.png
+description: "Hackathons, projects"
 nav-menu: true
 ---
 
@@ -12,7 +11,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p><strong>Attended</strong> Distributed Summer 2020, nwHacks 2020, UBC Local Hack Day 2019, Girls in Tech Vancouver Hacking for Humanity Hackathon 2019, cmd-f 2019, UBC Blockathon 2019,  BC Game Jam 2019, UBC Local Hack Day 2018, HallowHacks 2018, UBC Local Hack Day 2018</p>
+		<p><strong>Attended </strong>nwHacks 2021, Distributed Summer 2020, nwHacks 2020, UBC Local Hack Day 2019, Girls in Tech Vancouver Hacking for Humanity Hackathon 2019, cmd-f 2019, UBC Blockathon 2019,  BC Game Jam 2019, UBC Local Hack Day 2018, HallowHacks 2018, UBC Local Hack Day 2018</p>
 	</div>
 </section>
 

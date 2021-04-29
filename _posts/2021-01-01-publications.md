@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-description: "pieces I've written for print or web"
+description: "pieces I've written for print and web"
 ---
 
 <!-- Main -->
